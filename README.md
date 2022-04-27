@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritu Bankey</h1>
-<h3 align="center">Aspiring Full Stack Web Developer| Designing Products | Solving Problem</h3>
+<h3 align="center">Aspiring Full Stack Web Developer| Designing and Developing Products | Solving Problem</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritu1011&label=Profile%20views&color=0e75b6&style=flat" alt="ritu1011" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📝 I regularly write articles on [https://medium.com/@bankeyritu](https://medium.com/@bankeyritu)
+- 📝 I regularly write articles on [Medium](https://medium.com/@bankeyritu)
 
-- 💬 Ask me about **JavaScript, MongoDB, Node.js, Express.js**
+- 💬 Ask me about **JavaScript, MongoDB, Node.js, Express.js,React.js, Redux, UI Library, DS&Algo**
 
 - 📫 How to reach me **bankeyritu@gmail.com**
 
