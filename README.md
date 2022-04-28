@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, MongoDB, Node.js, Express.js,React.js, Redux, UI Library, DS&Algo**
 
-- 📫 How to reach me **bankeyritu@gmail.com**
+- 📫 How to reach me at  [Mail](bankeyritu@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
