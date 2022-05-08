@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ritu Bankey</h1>
+<div align="center">
+	<img src="https://github.com/sindresorhus/sindresorhus/raw/main/main.gif" alt="Hello. I'm Sindre. I like code. Thanks for reading.">
+</div>
+
 <h3 align="center">Aspiring Full Stack Web Developer| Designing and Developing Products | Solving Problem</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritu1011&label=Profile%20views&color=0e75b6&style=flat" alt="ritu1011" /> </p>
