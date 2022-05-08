@@ -26,7 +26,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritu1011&show_icons=true&&theme=radical" alt="ritu1011" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritu1011&" alt="ritu1011" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritu1011&&theme=radical" alt="ritu1011" /></p>
 
 <h2 align="center">🤝 Support each other </h2>
 <h1 align='center'>⚡️<i>Stay Blessed!</i>⚡️</h1>
