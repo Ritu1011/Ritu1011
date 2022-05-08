@@ -1,7 +1,7 @@
-<h1 align="center">Hi there , I'm Ritu  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi there , I'm Ritu 🙎 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 
-<h3 align="center">Aspiring Full Stack Web Developer| Designing and Developing Products | Solving Problem</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">💻 Full Stack Web Developer|| Designing and Developing Products || Solving Problem, I'm from India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritu1011&label=Profile%20views&color=0e75b6&style=flat" alt="ritu1011" /> </p>
 
