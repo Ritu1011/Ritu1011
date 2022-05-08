@@ -30,3 +30,12 @@
 
 <h2 align="center">🤝 Support each other </h2>
 <h1 align='center'>⚡️<i>Stay Blessed!</i>⚡️</h1>
+ 
+<div> 
+ 
+  ![Snake animation](https://github.com/tgmarinho/tgmarinho/blob/main/github-contribution-grid-snake.svg)
+ 
+ 
+</div>
+  
+  🚀
