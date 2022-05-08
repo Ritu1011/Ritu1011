@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritu Bankey</h1>
-<div align="center">
-	<img src="https://github.com/sindresorhus/sindresorhus/raw/main/main.gif" alt="Namaste. I'm Ritu. I like to design and code for web. Thanks for reading.">
-</div>
+
 
 <h3 align="center">Aspiring Full Stack Web Developer| Designing and Developing Products | Solving Problem</h3>
 
