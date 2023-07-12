@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@bankeyritu" target="blank"><img src="https://img.shields.io/twitter/follow/@bankeyritu?logo=twitter&style=for-the-badge" alt="@bankeyritu" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently Working as a **Full Stack Developer**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@bankeyritu)
 
